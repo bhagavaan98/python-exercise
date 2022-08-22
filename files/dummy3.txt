@@ -1,0 +1,32 @@
+Write
+A function
+disp75()
+in
+Python
+To
+display
+only
+Those
+records
+of
+students
+From
+file
+“school.dat”
+Who
+scored
+More
+Than 
+75 percent marks.
+Structure
+stored in
+“school.dat”
+Is 
+in 
+The 
+form 
+Of 
+list 
+Containing
+information
+Like 

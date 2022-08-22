@@ -1,0 +1,5 @@
+Write a program in python to remove all duplicate lines from the file.
+Write a program in python to display only unique words from the file.
+Write a program in python to count those words whose length is more than.
+Write a program in python to count those lines from the file.
+function addrec() to add a record in a file.a function mod(room_no) which takes room number as argument
